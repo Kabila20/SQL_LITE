@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQL_LITE</string>
+    <string name="course">Course</string>
+    <string name="name">Name</string>
+    <string name="section">Section</string>
+    <string name="year">Year</string>
+    <string name="create">CREATE</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="read">READ</string>
+</resources>
